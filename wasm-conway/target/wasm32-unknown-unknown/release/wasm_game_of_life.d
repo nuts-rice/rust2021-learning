@@ -1,0 +1,1 @@
+/home/squid-kid/0x0f_softworks/rust_work/rust_work_tiny/wasm-conway/target/wasm32-unknown-unknown/release/wasm_game_of_life.wasm: /home/squid-kid/0x0f_softworks/rust_work/rust_work_tiny/wasm-conway/src/lib.rs /home/squid-kid/0x0f_softworks/rust_work/rust_work_tiny/wasm-conway/src/utils.rs
